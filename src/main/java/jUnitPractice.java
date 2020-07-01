@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class jUnitPractice {
 
     //  1)
@@ -49,6 +51,7 @@ public class jUnitPractice {
     }
 
     public static boolean sameCase(String s1, String s2) {
+//        return Arrays.equals(s1, s2);
+        }
 
-    }
 }
