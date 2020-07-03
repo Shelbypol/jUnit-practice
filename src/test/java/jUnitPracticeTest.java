@@ -66,4 +66,7 @@ public class jUnitPracticeTest {
 
     }
 
+    @Test
+    public void name() {
+    }
 }
